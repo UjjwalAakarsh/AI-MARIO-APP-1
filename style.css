@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h2{
+    display:inline;
+}
+.heading button{
+    float: right;
+    font-size: 22px;
+    border: 1px solid wheat ;
+}
+#marioimg{
+    width: 100%;
+}
+#startbutton{
+    font-size: 22px;
+    
+}
